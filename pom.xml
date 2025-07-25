@@ -12,7 +12,7 @@
 	<artifactId>adminserverdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>AdminServerDemo</name>
-	<description>Demo project for Spring Microservice ConfigClientRefreshScope</description>
+	<description>Demo project for Spring Microservice Admin Server</description>
 	<url/>
 	<licenses>
 		<license/>
